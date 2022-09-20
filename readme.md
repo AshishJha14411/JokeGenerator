@@ -5,7 +5,7 @@ This project is part of JS assignment Challenge. It uses the jokeapi API, its fr
 
 1 hour approximately
 
-[Live Demo]()
+[Live Demo](https://jokegen-akj.netlify.app/)
 
 ### SnapShot of the program
 

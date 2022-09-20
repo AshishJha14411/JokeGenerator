@@ -13,6 +13,6 @@ getJokeBtn.addEventListener("click", async () => {
   }
   if (data.setup === undefined || data.delivery === undefined) {
     jokeArea.innerHTML =
-      "There has been an error due to the lack of support for the api development, Kindly Contact the contributors at jokeapi.dev to help";
+      "Error..!!! \nThere has been an error due to the lack of support for the api development, Kindly Contact the contributors at jokeapi.dev to help";
   }
 });

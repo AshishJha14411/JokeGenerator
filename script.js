@@ -1,5 +1,6 @@
 let jokeArea = document.querySelector("#joke");
 const getJokeBtn = document.querySelector("#jokeBtn");
+document.title= 'Dark Jokes'
 jokeArea.innerHTML= `Press 'Get Another Joke' button to get started`
 getJokeBtn.addEventListener("click", async () => {
   let response = await fetch("https://v2.jokeapi.dev/joke/Dark");

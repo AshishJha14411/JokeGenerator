@@ -8,3 +8,5 @@ This project is part of JS assignment Challenge. It uses the jokeapi API, its fr
 [Live Demo]()
 
 ### SnapShot of the program
+
+![Snap](./snap.png)
